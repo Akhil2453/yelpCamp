@@ -1,0 +1,11 @@
+{
+  "name": "yelp_camp",
+  "version": "1.0.0",
+  "description": "A website to add campgrounds, add comments for different users, etc...",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akhil Menon",
+  "license": "ISC"
+}
